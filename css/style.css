@@ -9,6 +9,11 @@ body {
     align-items: center;
 }
 
+@font-face {
+    font-family: caveat;
+    src: url(fonts/Caveat-VariableFont_wght.ttf);
+  }
+
 #titlediv {
     height: 90%; 
     width: 78%; 
@@ -30,7 +35,7 @@ body {
 
 .mainheader {
     color: #262b2b;
-    font-family: arial;
+    font-family: caveat;
     font-size: 5vw;
     display: flex;
     justify-content: center;
