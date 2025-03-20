@@ -31,31 +31,35 @@ body {
 .mainheader {
     color: #262b2b;
     font-family: arial;
-    font-size: 7vw;
+    font-size: 5vw;
     display: flex;
     justify-content: center;
 }
 
 a:link {
     font-family: arial;
-    font-size: 2vw;
-    color: #eab354
+    font-size: 1vw;
+    color: #eab354;
+    text-decoration: none;
   }
   
   a:visited {
     font-family: arial;
-    font-size: 2vw;
-    color: #eab354
+    font-size: 1vw;
+    color: #eab354;
+    text-decoration: none;
   }
   
   a:hover {
     font-family: arial;
-    font-size: 2vw;
-    color: #eab354
+    font-size: 1vw;
+    color: #eab354;
+    text-decoration: none;
   }
   
   a:active {
     font-family: arial;
-    font-size: 2vw;
-    color: #eab354
+    font-size: 1vw;
+    color: #eab354;
+    text-decoration: none;
   }
