@@ -4,20 +4,22 @@ body {
     font-size: 2vw;
     color: #e7e4e3;
     display: flex;
-    justify-content: center
+    justify-content: center;
 }
 
 #linkbar {
     height: 10%; 
     width: 100%; 
     display: flex;
-    justify-content: center
+    justify-content: center;
+    position: absolute;
 }
 
 #content {
     height: 90%; 
     width: 78%; 
     text-align: center;
+    position: absolute;
 }
 
 .mainheader {
@@ -25,24 +27,11 @@ body {
     font-family: arial;
     font-size: 10vw;
     display: flex;
-    justify-content: center  
+    justify-content: center;
 }
 
 .link {
     font-family: arial;
     font-size: 4vw;
-}
-
-a:visited {
-    color: #eab354;
-    font-family: arial;
-    font-size: 4vw;
-    text-align: center;
-}
-
-a:hover {
-    color: #eab354;
-    font-family: arial;
-    font-size: 4vw
-    text-align: center;
+    color: #eab354
 }
