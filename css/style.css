@@ -9,9 +9,10 @@ body {
     align-items: center;
 }
 
-@font-face {
-    font-family: sriracha;
-    src: url(fonts/sriracha.ttf) format("truetype");
+.sriracha-regular {
+    font-family: "Sriracha", cursive;
+    font-weight: 400;
+    font-style: normal;
   }
 
 #titlediv {
@@ -35,7 +36,7 @@ body {
 
 .mainheader {
     color: #262b2b;
-    font-family: sriracha;
+    font-family: Sriracha;
     font-size: 5vw;
     display: flex;
     justify-content: center;
