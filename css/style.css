@@ -36,8 +36,26 @@ body {
     justify-content: center;
 }
 
-.link {
+a:link {
     font-family: arial;
     font-size: 2vw;
     color: #eab354
-}
+  }
+  
+  a:visited {
+    font-family: arial;
+    font-size: 2vw;
+    color: #eab354
+  }
+  
+  a:hover {
+    font-family: arial;
+    font-size: 2vw;
+    color: #eab354
+  }
+  
+  a:active {
+    font-family: arial;
+    font-size: 2vw;
+    color: #eab354
+  }
