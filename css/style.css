@@ -11,7 +11,7 @@ body {
 
 @font-face {
     font-family: sriracha;
-    src: url(fonts/sriracha.ttf);
+    src: url(fonts/sriracha.ttf) format("truetype");
   }
 
 #titlediv {
