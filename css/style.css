@@ -10,8 +10,8 @@ body {
 }
 
 @font-face {
-    font-family: caveat;
-    src: url(fonts/Caveat-VariableFont_wght.ttf);
+    font-family: sriracha;
+    src: url(fonts/sriracha.ttf);
   }
 
 #titlediv {
@@ -35,7 +35,7 @@ body {
 
 .mainheader {
     color: #262b2b;
-    font-family: caveat;
+    font-family: sriracha;
     font-size: 5vw;
     display: flex;
     justify-content: center;
